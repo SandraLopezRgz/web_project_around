@@ -1,8 +1,8 @@
-# Tripleten web_project_around Around The U.S.
-
-### Descripción general
+### Proyecto "Alrededor de los U.S." - Descripción general
 
 Este proyecto se trata de una página interactiva en la que los usuarios pueden añadir, eliminar o dar "me gusta" a las fotos. Lo hemos diseñado de tal modo que todos los elementos se muestren correctamente en los tamaños de pantalla más habituales.
+
+Aquí dejo el acceso directo a la web en Github: https://github.com/SandraLopezRgz/web_project_around.git.
 
 ### Herramientas
 
@@ -16,4 +16,4 @@ Puedes ver abajo la lista con las principales herramientas y lenguajes de marcad
 - Document Object Model (DOM).
 - Metodología BEM creada por _Yandex_.
 
-Aún no está finalizado, ya que se tratará en los próximos sprints.
+Aún no está finalizado, ya que lo continuaré con nuevas tecnologías aprendidas en futuros sprints del Bootcamp que estoy estudiando.

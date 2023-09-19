@@ -1,5 +1,5 @@
-.card__title {
-    font-family: Inter;
+.cards__title {
+    font-family: "Inter", Arial, sans-serif;
     font-size: 1.5rem;
     font-weight: 900;
     width: 92%;
